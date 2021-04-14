@@ -50,7 +50,6 @@ namespace Torres_de_Hanoi
             else return false;
             
         }
-
         public bool OrderCheck(int total)
         {
             int bigger = total - 1;
