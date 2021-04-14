@@ -80,7 +80,6 @@ namespace Torres_de_Hanoi
           
             return m;
         }
-
         public static int Recursivo(int n, Pila ini, Pila fin, Pila aux)
         {
           
